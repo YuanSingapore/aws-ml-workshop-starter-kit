@@ -14,7 +14,7 @@ Install hugo as per https://gohugo.io/getting-started/installing/
 
 in a local directory clone this repo and run hugo to confirm you have the site working locally
 ```
-git clone https://github.com/cainhopwood/aws-ml-workshop-starter-kit.git
+git clone https://github.com/YuanSingapore/aws-ml-workshop-starter-kit.git
 hugo server
 ```
 
